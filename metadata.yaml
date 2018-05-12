@@ -1,0 +1,33 @@
+_repo: '---_23842'
+_version: 0.1.0
+alternative_title: Yang Jia Jiang
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xiong, Damu, active 16th century
+    aliases:
+    - Zhongguzi
+    - Hsiung, Ta-mu
+    - Xiong, Da Mu
+    - Hsiung, Chung-ku
+    - Xiong, Zhonggu
+    - 熊大木
+    - Chung-ku-tzu
+    gutenberg_agent_id: '26072'
+    url: http://www.gutenberg.org/2009/agents/26072
+description: ''
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23842'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Fiction'
+title: 楊家將
+url: http://www.gutenberg.org/ebooks/23842
